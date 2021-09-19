@@ -4,5 +4,8 @@ download tool chain from https://github.com/stnolting/riscv-gcc-prebuilt/release
 
 extract and put the contents into toolChain folder
 
+cd utils/elf2hex
+sudo make install
+
 then run make
 
